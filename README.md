@@ -71,10 +71,6 @@ In quarterly volume traded, Coinbase is second only to Binance who trades about 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+I would recommend Coinbase  develop an augmented reality or virtual reality device that directly linked to their Coinbase wallets as a product offer to their account holders.
+It would be an all in one VR with an integrated headset, microphone and two controllers to hold one in each hand. The headset would have fast switch display and allow six degrees of freedom. With bluetooth and Wi-Fi capabilities the VR connects directly to a Coinbase and you can begin buying and playing games or watching movies.
+There are about 170 million VR users worldwide today and the number is expected to double soon. With VR on the way to becoming the new normal in entertainment and cryptocurrency doing the same in finance, Coinbase could distinguish itself greatly among almost 200 million potential more users.
