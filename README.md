@@ -54,13 +54,11 @@ NFT stands for “Non-fungible Tokens.” NFTs have become tremendously popular 
 ### Other Players in Crypto Exchange
 
 The global cryptocurrency market size was estimated at USD 4.67 billion in 2022. It's expected to reach USD 5.15 billion in 2023. So it makes sense that there are other big companies out there competing with the likes of Coinbase. Public, Kraken and Bisq are just three of many crypto exchanges that I've come across in my research.
-* What are the other major companies in this domain?
-
 
 ## Closing Thoughts
 
 Since its inception, Coinbase has educated people on cryptocurrencies and has given everyone access to cryptocurrencies.
-It's one of the few exchanges that allows users to withdraw their crypto immediately. It has become one the most trusted due to its FDIC-secured accounts. It's also one of the safest as they won't hesitate to block suspicious accounts to ensure user safety.
+It's one of the few exchanges that allows users to withdraw their crypto immediately. It's also one of the safest as they won't hesitate to block suspicious accounts to ensure user safety.
 
 ## Core Metrics
 In quarterly volume traded, Coinbase is second only to Binance who trades about $400 billion each quarter. When it comes to what cryptocurrencies to exchange and what fiat to support on their platform, Coinbase seems to focus on quality over quantity. so they don't have as many as some other crypto exchanges like KuCoin, which has over 800 coins and supports over 45 fiat currencies but only trades about $50 billion each quarter .
