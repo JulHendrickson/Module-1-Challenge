@@ -73,4 +73,15 @@ In quarterly volume traded, Coinbase is second only to Binance who trades about 
 
 I would recommend Coinbase  develop an augmented reality or virtual reality device that directly linked to their Coinbase wallets as a product offer to their account holders.
 It would be an all in one VR with an integrated headset, microphone and two controllers to hold one in each hand. The headset would have fast switch display and allow six degrees of freedom. With bluetooth and Wi-Fi capabilities the VR connects directly to a Coinbase and you can begin buying and playing games or watching movies.
-There are about 170 million VR users worldwide today and the number is expected to double soon. With VR on the way to becoming the new normal in entertainment and cryptocurrency doing the same in finance, Coinbase could distinguish itself greatly among almost 200 million potential more users.
+There are about 170 million VR users worldwide today and the market is expected to grow to $210 billion in 2023. With VR on the way to becoming the new normal in entertainment and cryptocurrency doing the same in finance, Coinbase could distinguish itself greatly among almost 200 million potential more users.
+
+
+
+# Addendum
+https://www.coinbase.com/
+https://www.investopedia.com/tech/coinbase-what-it-and-how-do-you-use-it/
+https://surf.dev/coinbase-tech-stack-technologies-that-power-the-cryptocurrency-platform/
+https://www.coinbase.com/blog/making-web3-exploration-more-secure-with-coinbase-wallet
+https://money.com/best-crypto-exchanges/
+https://coinmarketcap.com/rankings/exchanges/
+https://www.simplilearn.com/top-technology-trends-and-jobs-article#13_virtual_reality_and_augmented_reality
